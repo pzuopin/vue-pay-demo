@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/vue-pay-demo/dist/',
+    assetsPublicPath: '/',
     proxyTable: {},
 
     // Various Dev Server settings
