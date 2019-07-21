@@ -4,6 +4,9 @@ vue移动端支付密码窗插件，仿支付宝密码框。
 ### 原作者地址
 [原作者地址](https://github.com/chinaBerg/vpay, '原作者地址')
 
+### 效果地址
+[效果地址](https://pzuopin.github.io/vue-pay-demo/dist/index.html, '效果地址')
+
 
 ### 插件的安装
 #### NPM
